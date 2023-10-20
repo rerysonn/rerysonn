@@ -1,6 +1,6 @@
 # Meu nome é Reryson, bem vindo ao meu Github!
 
-<a href="https://github.com/rerysonn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rerysonn&layout=compact&theme=buefy&hide_border=true" />
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rerysonn&layout=compact)](https://github.com/rerysonn/github-readme-stats)
 
 **Linguagens de programação:**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>|<img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
