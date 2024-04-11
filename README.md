@@ -6,8 +6,8 @@
 |--|--|
 
 **Frameworks:**
-<img title="Spring Boot" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-|--|
+<img title="Spring Boot" alt="Spring" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>|<img title="Django" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+|--|--|
 
 **Ferramentas:**
 <img title="Visual Studio Code" alt="vscode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>|<img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
