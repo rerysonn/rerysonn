@@ -1,5 +1,8 @@
 # Meu nome é Reryson, bem vindo ao meu Github!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rerysonn&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rerysonn&theme=radical)](https://github.com/rerysonn/github-readme-stats)
+
 
 **Linguagens de programação:**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>|<img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
